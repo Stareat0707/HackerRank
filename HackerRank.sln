@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting, Comparator", "Sort
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraudulent Activity Notifications", "Fraudulent Activity Notifications\Fraudulent Activity Notifications.vcxproj", "{EE7E50EC-AF46-49DC-BD53-61756F0B3C07}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge Sort Counting Inversions", "Merge Sort Counting Inversions\Merge Sort Counting Inversions.vcxproj", "{3B9F16B7-54EB-4536-8555-D7735B00FEA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{EE7E50EC-AF46-49DC-BD53-61756F0B3C07}.Release|x64.Build.0 = Release|x64
 		{EE7E50EC-AF46-49DC-BD53-61756F0B3C07}.Release|x86.ActiveCfg = Release|Win32
 		{EE7E50EC-AF46-49DC-BD53-61756F0B3C07}.Release|x86.Build.0 = Release|Win32
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Debug|x64.ActiveCfg = Debug|x64
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Debug|x64.Build.0 = Debug|x64
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Debug|x86.ActiveCfg = Debug|Win32
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Debug|x86.Build.0 = Debug|Win32
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Release|x64.ActiveCfg = Release|x64
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Release|x64.Build.0 = Release|x64
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Release|x86.ActiveCfg = Release|Win32
+		{3B9F16B7-54EB-4536-8555-D7735B00FEA3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

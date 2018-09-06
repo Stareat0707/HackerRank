@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{EE7E50EC-AF46-49DC-BD53-61756F0B3C07}</ProjectGuid>
-    <RootNamespace>FraudulentActivityNotifications</RootNamespace>
+    <ProjectGuid>{3B9F16B7-54EB-4536-8555-D7735B00FEA3}</ProjectGuid>
+    <RootNamespace>MergeSortCountingInversions</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
