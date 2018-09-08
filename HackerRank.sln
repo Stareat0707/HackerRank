@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge Sort Counting Inversi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strings Making Anagrams", "Strings Making Anagrams\Strings Making Anagrams.vcxproj", "{0F875018-5B8C-496D-BA83-418BC89FACD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Alternating Characters", "Alternating Characters\Alternating Characters.vcxproj", "{4A14975D-8B06-40AB-A057-9F556D4DAE93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{0F875018-5B8C-496D-BA83-418BC89FACD5}.Release|x64.Build.0 = Release|x64
 		{0F875018-5B8C-496D-BA83-418BC89FACD5}.Release|x86.ActiveCfg = Release|Win32
 		{0F875018-5B8C-496D-BA83-418BC89FACD5}.Release|x86.Build.0 = Release|Win32
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Debug|x64.ActiveCfg = Debug|x64
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Debug|x64.Build.0 = Debug|x64
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Debug|x86.Build.0 = Debug|Win32
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Release|x64.ActiveCfg = Release|x64
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Release|x64.Build.0 = Release|x64
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Release|x86.ActiveCfg = Release|Win32
+		{4A14975D-8B06-40AB-A057-9F556D4DAE93}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
