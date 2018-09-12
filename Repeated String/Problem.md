@@ -66,3 +66,22 @@ Because all of the first $n = 1000000000000$ letters of the infinite string are 
 
 ## Solution
 
+```pseudo
+long function repeatedString
+set count to 0;
+For i = 0; i < s.length; i++
+{
+    If s[i] == 'a';
+        count = count + 1;
+}
+
+count = n / s.length * count;
+
+For i = 0; i < n % s.length; ++i
+{
+    If s[i] == 'a'
+        count = count + 1;
+}
+
+return count;
+```
