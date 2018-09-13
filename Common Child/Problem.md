@@ -23,39 +23,92 @@ There is one line with two space-separated strings, $s1$ and $s2$.
 
 ## Output Format
 
+Print the length of the longest string $s$, such that $s$ is a child of both $s1$ and $s2$.
 
-
-## Sample Input 0
-
-```text
-
-```
-
-## Sample Output 0
+## Sample Input
 
 ```text
-
+HARRY
+SALLY
 ```
 
-## Explanation 0
+## Sample Output
 
+```text
+2
+```
 
+## Explanation
+
+The longest string that can be formed by deleting zero or more characters from $HARRY$ and $SALLY$ is $AY$, whose length is 2.
 
 ## Sample Input 1
 
 ```text
-
+AA
+BB
 ```
 
 ## Sample Output 1
 
 ```text
-
+0
 ```
 
 ## Explanation 1
 
+$AA$ and $BB$ have no characters in common and hence the output is 0.
 
+## Sample Input 2
+
+```text
+SHINCHAN
+NOHARAAA
+```
+
+## Sample Output 2
+
+```text
+3
+```
+
+## Explanation 2
+
+The longest string that can be formed between $SHINCHAN$ and $NOHARAAA$ while maintaining the order is $NHA$.
+
+## Sample Input 3
+
+```text
+ABCDEF
+FBDAMN
+```
+
+## Sample Output 3
+
+```text
+2
+```
+
+## Explanation 3
+
+$BD$ is the longest child of the given strings.
 
 ## Solution
 
+Use Dynamic Programing:
+
+```pseudo
+dp[s1.length + 1][s2.length + 1];
+For (i = 0; i < s1.length; ++i)
+{
+    For (j = 0; j < s2.length; ++j)
+    {
+        If (s1[i] == s2[j])
+            dp[i + 1][j + 1] = dp[i][j] + 1;
+        Else
+            dp[i + 1][j + 1] = max(dp[i][j + 1], dp[i + 1][j]);
+    }
+}
+
+return dp[s1.length][s2.length];
+```
