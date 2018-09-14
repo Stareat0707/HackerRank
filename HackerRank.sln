@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Repeated String", "Repeated
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common Child", "Common Child\Common Child.vcxproj", "{58AA0547-2206-4E8E-9FFA-BB663A59CF4F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum Absolute Difference in an Array", "Minimum Absolute Difference in an Array\Minimum Absolute Difference in an Array.vcxproj", "{B01EF68C-7568-4EBF-8A47-47FF2B750466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{58AA0547-2206-4E8E-9FFA-BB663A59CF4F}.Release|x64.Build.0 = Release|x64
 		{58AA0547-2206-4E8E-9FFA-BB663A59CF4F}.Release|x86.ActiveCfg = Release|Win32
 		{58AA0547-2206-4E8E-9FFA-BB663A59CF4F}.Release|x86.Build.0 = Release|Win32
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Debug|x64.ActiveCfg = Debug|x64
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Debug|x64.Build.0 = Debug|x64
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Debug|x86.ActiveCfg = Debug|Win32
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Debug|x86.Build.0 = Debug|Win32
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x64.ActiveCfg = Release|x64
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x64.Build.0 = Release|x64
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x86.ActiveCfg = Release|Win32
+		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
