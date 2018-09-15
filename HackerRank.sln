@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Common Child", "Common Chil
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum Absolute Difference in an Array", "Minimum Absolute Difference in an Array\Minimum Absolute Difference in an Array.vcxproj", "{B01EF68C-7568-4EBF-8A47-47FF2B750466}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Luck Balance", "Luck Balance\Luck Balance.vcxproj", "{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x64.Build.0 = Release|x64
 		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x86.ActiveCfg = Release|Win32
 		{B01EF68C-7568-4EBF-8A47-47FF2B750466}.Release|x86.Build.0 = Release|Win32
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Debug|x64.ActiveCfg = Debug|x64
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Debug|x64.Build.0 = Debug|x64
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Debug|x86.Build.0 = Debug|Win32
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Release|x64.ActiveCfg = Release|x64
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Release|x64.Build.0 = Release|x64
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Release|x86.ActiveCfg = Release|Win32
+		{7F543D35-0FAF-4BCA-B68E-891C5CBDD482}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
