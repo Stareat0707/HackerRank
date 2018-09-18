@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Greedy Florist", "Greedy Fl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Max Min", "Max Min\Max Min.vcxproj", "{28CF665F-4EF2-4644-A61C-40FBFEA1F76A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse Shuffle Merge", "Reverse Shuffle Merge\Reverse Shuffle Merge.vcxproj", "{75BE8BCD-E8B2-425C-A5BA-514724086B4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{28CF665F-4EF2-4644-A61C-40FBFEA1F76A}.Release|x64.Build.0 = Release|x64
 		{28CF665F-4EF2-4644-A61C-40FBFEA1F76A}.Release|x86.ActiveCfg = Release|Win32
 		{28CF665F-4EF2-4644-A61C-40FBFEA1F76A}.Release|x86.Build.0 = Release|Win32
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Debug|x64.ActiveCfg = Debug|x64
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Debug|x64.Build.0 = Debug|x64
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Debug|x86.Build.0 = Debug|Win32
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Release|x64.ActiveCfg = Release|x64
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Release|x64.Build.0 = Release|x64
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Release|x86.ActiveCfg = Release|Win32
+		{75BE8BCD-E8B2-425C-A5BA-514724086B4C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
