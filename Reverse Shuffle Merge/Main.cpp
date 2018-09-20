@@ -50,6 +50,6 @@ int main()
 	string s;
 	cin >> s;
 
-	cout << reverseshuffleMerge(s) << endl;
+	cout << reverseShuffleMerge(s) << endl;
 	return 0;
 }
