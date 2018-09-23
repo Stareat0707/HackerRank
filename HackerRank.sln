@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pairs", "Pairs\Pairs.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Triple sum", "Triple sum\Triple sum.vcxproj", "{E2C3CBEA-D243-4DFB-B5E3-6F094435C839}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum Time Required", "Minimum Time Required\Minimum Time Required.vcxproj", "{DAFED263-50C3-4EA1-9F51-45AE230739C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{E2C3CBEA-D243-4DFB-B5E3-6F094435C839}.Release|x64.Build.0 = Release|x64
 		{E2C3CBEA-D243-4DFB-B5E3-6F094435C839}.Release|x86.ActiveCfg = Release|Win32
 		{E2C3CBEA-D243-4DFB-B5E3-6F094435C839}.Release|x86.Build.0 = Release|Win32
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Debug|x64.ActiveCfg = Debug|x64
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Debug|x64.Build.0 = Debug|x64
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Debug|x86.Build.0 = Debug|Win32
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Release|x64.ActiveCfg = Release|x64
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Release|x64.Build.0 = Release|x64
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Release|x86.ActiveCfg = Release|Win32
+		{DAFED263-50C3-4EA1-9F51-45AE230739C5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
