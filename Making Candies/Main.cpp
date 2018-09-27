@@ -41,9 +41,7 @@ bool check(long long m, long long w, long long p, long long n, long long rounds)
 
 long long minimumPasses(long long m, long long w, long long p, long long n)
 {
-	long long low = 1, high = n / (m * w);
-	if (n % (m * w) != 0)
-		++high;
+	long long low = 1, high = 1000000000000;
 
 	while (low < high)
 	{
