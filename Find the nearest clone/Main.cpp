@@ -73,8 +73,6 @@ int findShortest(int graph_nodes, vector<int> graph_from, vector<int> graph_to, 
 
 int main()
 {
-	ifstream cin("input.txt");
-
 	int n, m;
 	cin >> n >> m;
 
