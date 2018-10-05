@@ -81,6 +81,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find the nearest clone", "F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BFS Shortest Reach in a Graph", "BFS Shortest Reach in a Graph\BFS Shortest Reach in a Graph.vcxproj", "{397BCFC3-BAC3-49D1-828E-CFFAAC206293}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS Connected Cell in a Grid", "DFS Connected Cell in a Grid\DFS Connected Cell in a Grid.vcxproj", "{A76766F5-D3D9-4FCA-83CD-82E8265BB766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -401,6 +403,14 @@ Global
 		{397BCFC3-BAC3-49D1-828E-CFFAAC206293}.Release|x64.Build.0 = Release|x64
 		{397BCFC3-BAC3-49D1-828E-CFFAAC206293}.Release|x86.ActiveCfg = Release|Win32
 		{397BCFC3-BAC3-49D1-828E-CFFAAC206293}.Release|x86.Build.0 = Release|Win32
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Debug|x64.ActiveCfg = Debug|x64
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Debug|x64.Build.0 = Debug|x64
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Debug|x86.ActiveCfg = Debug|Win32
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Debug|x86.Build.0 = Debug|Win32
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Release|x64.ActiveCfg = Release|x64
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Release|x64.Build.0 = Release|x64
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Release|x86.ActiveCfg = Release|Win32
+		{A76766F5-D3D9-4FCA-83CD-82E8265BB766}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
