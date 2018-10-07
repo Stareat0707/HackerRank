@@ -85,6 +85,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS Connected Cell in a Gri
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrix", "Matrix\Matrix.vcxproj", "{BFF86C18-E0B0-42A1-B913-322D9537FF1A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Height of a Binary Tree", "Height of a Binary Tree\Height of a Binary Tree.vcxproj", "{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -421,6 +423,14 @@ Global
 		{BFF86C18-E0B0-42A1-B913-322D9537FF1A}.Release|x64.Build.0 = Release|x64
 		{BFF86C18-E0B0-42A1-B913-322D9537FF1A}.Release|x86.ActiveCfg = Release|Win32
 		{BFF86C18-E0B0-42A1-B913-322D9537FF1A}.Release|x86.Build.0 = Release|Win32
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Debug|x64.ActiveCfg = Debug|x64
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Debug|x64.Build.0 = Debug|x64
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Debug|x86.ActiveCfg = Debug|Win32
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Debug|x86.Build.0 = Debug|Win32
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Release|x64.ActiveCfg = Release|x64
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Release|x64.Build.0 = Release|x64
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Release|x86.ActiveCfg = Release|Win32
+		{97A5FA36-E239-4EAA-BCC6-8A0EA115BABC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
