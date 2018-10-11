@@ -91,6 +91,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lowest Common Ancestor", "L
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Is This a Binary Search Tree", "Is This a Binary Search Tree\Is This a Binary Search Tree.vcxproj", "{DF8BD7BA-A855-4659-9503-734ABC3AC066}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huffman Decoding", "Huffman Decoding\Huffman Decoding.vcxproj", "{46EC8C80-F55E-4887-B932-53F0859DF3B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -451,6 +453,14 @@ Global
 		{DF8BD7BA-A855-4659-9503-734ABC3AC066}.Release|x64.Build.0 = Release|x64
 		{DF8BD7BA-A855-4659-9503-734ABC3AC066}.Release|x86.ActiveCfg = Release|Win32
 		{DF8BD7BA-A855-4659-9503-734ABC3AC066}.Release|x86.Build.0 = Release|Win32
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Debug|x64.ActiveCfg = Debug|x64
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Debug|x64.Build.0 = Debug|x64
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Debug|x86.Build.0 = Debug|Win32
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Release|x64.ActiveCfg = Release|x64
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Release|x64.Build.0 = Release|x64
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Release|x86.ActiveCfg = Release|Win32
+		{46EC8C80-F55E-4887-B932-53F0859DF3B0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
