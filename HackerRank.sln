@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inserting a Node Into a Sor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse a doubly linked list", "Reverse a doubly linked list\Reverse a doubly linked list.vcxproj", "{C019BA08-E8D5-410A-8C80-3118117693BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find Merge Point of Two Lists", "Find Merge Point of Two Lists\Find Merge Point of Two Lists.vcxproj", "{540AD742-2D4F-4576-8358-7B25BAE470CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{C019BA08-E8D5-410A-8C80-3118117693BC}.Release|x64.Build.0 = Release|x64
 		{C019BA08-E8D5-410A-8C80-3118117693BC}.Release|x86.ActiveCfg = Release|Win32
 		{C019BA08-E8D5-410A-8C80-3118117693BC}.Release|x86.Build.0 = Release|Win32
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Debug|x64.ActiveCfg = Debug|x64
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Debug|x64.Build.0 = Debug|x64
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Debug|x86.Build.0 = Debug|Win32
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x64.ActiveCfg = Release|x64
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x64.Build.0 = Release|x64
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x86.ActiveCfg = Release|Win32
+		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
