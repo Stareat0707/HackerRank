@@ -103,6 +103,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Reverse a doubly linked lis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find Merge Point of Two Lists", "Find Merge Point of Two Lists\Find Merge Point of Two Lists.vcxproj", "{540AD742-2D4F-4576-8358-7B25BAE470CC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Detect a Cycle", "Detect a Cycle\Detect a Cycle.vcxproj", "{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -511,6 +513,14 @@ Global
 		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x64.Build.0 = Release|x64
 		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x86.ActiveCfg = Release|Win32
 		{540AD742-2D4F-4576-8358-7B25BAE470CC}.Release|x86.Build.0 = Release|Win32
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Debug|x64.ActiveCfg = Debug|x64
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Debug|x64.Build.0 = Debug|x64
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Debug|x86.Build.0 = Debug|Win32
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Release|x64.ActiveCfg = Release|x64
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Release|x64.Build.0 = Release|x64
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Release|x86.ActiveCfg = Release|Win32
+		{863FF1B9-B49B-4CCD-93BC-B6DC71E69E7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
