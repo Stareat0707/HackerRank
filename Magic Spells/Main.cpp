@@ -126,26 +126,21 @@ void counterspell(Spell *spell)
 		dynamic_cast<Thunderstorm*>(spell)->revealThunderpower();
 	else
 	{
-		string temp;
-		int result = 0;
-		int point = 0;
-		string scrollName = spell->revealScrollName();
-		for (int i = 0; i < SpellJournal::journal.size(); ++i)
+		vector<vector<int>> lcs(SpellJournal::journal.size() + 1);
+		lcs[0].resize(spell->revealScrollName().size() + 1);
+		for (int i = 1; i < lcs.size(); ++i)
 		{
-			for (int j = 0; j < scrollName.size(); ++j)
+			lcs[i].resize(spell->revealScrollName().size() + 1);
+			for (int j = 1; j < lcs[i].size(); ++j)
 			{
-				if (SpellJournal::journal[i] == scrollName[j])
-				{
-					temp += scrollName[j];
-					scrollName.erase(j, 1);
-					++result;
-					point = j + 1;
-					break;
-				}
+				if (spell->revealScrollName()[j - 1] == SpellJournal::journal[i - 1])
+					lcs[i][j] = lcs[i - 1][j - 1] + 1;
+				else
+					lcs[i][j] = lcs[i - 1][j] > lcs[i][j - 1] ? lcs[i - 1][j] : lcs[i][j - 1];
 			}
 		}
-		cout << temp << endl;
-		cout << result << endl;
+
+		cout << lcs[SpellJournal::journal.size()][spell->revealScrollName().size()] << endl;
 	}
 }
 
