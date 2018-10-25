@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Overload Operators", "Overl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Attending Workshops", "Attending Workshops\Attending Workshops.vcxproj", "{5259A80F-9C61-436D-827A-1CB17A3BFCD2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ Class Template Specialization", "C++ Class Template Specialization\C++ Class Template Specialization.vcxproj", "{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{5259A80F-9C61-436D-827A-1CB17A3BFCD2}.Release|x64.Build.0 = Release|x64
 		{5259A80F-9C61-436D-827A-1CB17A3BFCD2}.Release|x86.ActiveCfg = Release|Win32
 		{5259A80F-9C61-436D-827A-1CB17A3BFCD2}.Release|x86.Build.0 = Release|Win32
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Debug|x64.ActiveCfg = Debug|x64
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Debug|x64.Build.0 = Debug|x64
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Debug|x86.Build.0 = Debug|Win32
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Release|x64.ActiveCfg = Release|x64
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Release|x64.Build.0 = Release|x64
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Release|x86.ActiveCfg = Release|Win32
+		{C41741C5-C0CA-413F-9A25-FE3C7CF38EBA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
