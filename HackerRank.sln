@@ -157,6 +157,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Division", "Python D
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Loops", "Loops\Loops.pyproj", "{8F635812-73EE-4984-AA3A-213963734150}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Write a function", "Write a function\Write a function.pyproj", "{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -917,6 +919,12 @@ Global
 		{8F635812-73EE-4984-AA3A-213963734150}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F635812-73EE-4984-AA3A-213963734150}.Release|x64.ActiveCfg = Release|Any CPU
 		{8F635812-73EE-4984-AA3A-213963734150}.Release|x86.ActiveCfg = Release|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Release|x64.ActiveCfg = Release|Any CPU
+		{5F78E96B-2E13-49C1-B1AB-DEC6C537111D}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
