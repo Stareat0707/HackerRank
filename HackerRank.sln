@@ -153,6 +153,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python If-Else", "Python If
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arithmetic Operators", "Arithmetic Operators\Arithmetic Operators.pyproj", "{4452D190-759F-49C2-BC41-35A8CA36BC85}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Division", "Python Division\Python Division.pyproj", "{C6119218-4BB4-40AD-B6BC-599D939BB4BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -901,6 +903,12 @@ Global
 		{4452D190-759F-49C2-BC41-35A8CA36BC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4452D190-759F-49C2-BC41-35A8CA36BC85}.Release|x64.ActiveCfg = Release|Any CPU
 		{4452D190-759F-49C2-BC41-35A8CA36BC85}.Release|x86.ActiveCfg = Release|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
