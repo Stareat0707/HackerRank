@@ -167,6 +167,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Linear Algebra", "Linear Al
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Check Strict Superset", "Check Strict Superset\Check Strict Superset.pyproj", "{C618E4B5-D851-413A-966B-0A20261071B9}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Alphabet Rangoli", "Alphabet Rangoli\Alphabet Rangoli.pyproj", "{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -957,6 +959,12 @@ Global
 		{C618E4B5-D851-413A-966B-0A20261071B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C618E4B5-D851-413A-966B-0A20261071B9}.Release|x64.ActiveCfg = Release|Any CPU
 		{C618E4B5-D851-413A-966B-0A20261071B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Release|x64.ActiveCfg = Release|Any CPU
+		{8796F9E0-CAF0-4918-AF82-7418C5A02CC9}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
