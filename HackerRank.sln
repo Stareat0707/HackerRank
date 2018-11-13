@@ -161,6 +161,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Write a function", "Write a
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Print Function", "Print Function\Print Function.pyproj", "{F55F225A-1AF7-405A-ABE2-6CD17BDD3DA1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Polynomials", "Polynomials\Polynomials.pyproj", "{AFABD031-C2DA-49BC-85F6-645991BAB9EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -933,6 +935,12 @@ Global
 		{F55F225A-1AF7-405A-ABE2-6CD17BDD3DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F55F225A-1AF7-405A-ABE2-6CD17BDD3DA1}.Release|x64.ActiveCfg = Release|Any CPU
 		{F55F225A-1AF7-405A-ABE2-6CD17BDD3DA1}.Release|x86.ActiveCfg = Release|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{AFABD031-C2DA-49BC-85F6-645991BAB9EF}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
