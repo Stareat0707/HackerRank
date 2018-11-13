@@ -149,6 +149,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Save the Prisoner!", "Save 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Say Hello, World With Python", "Say Hello, World With Python\Say Hello, World With Python.pyproj", "{E2FBD0CE-0CA6-4EB5-B317-58CD595F4E54}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python If-Else", "Python If-Else\Python If-Else.pyproj", "{A204DD88-984F-47C7-A725-951E04831DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -885,6 +887,12 @@ Global
 		{E2FBD0CE-0CA6-4EB5-B317-58CD595F4E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2FBD0CE-0CA6-4EB5-B317-58CD595F4E54}.Release|x64.ActiveCfg = Release|Any CPU
 		{E2FBD0CE-0CA6-4EB5-B317-58CD595F4E54}.Release|x86.ActiveCfg = Release|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Release|x64.ActiveCfg = Release|Any CPU
+		{A204DD88-984F-47C7-A725-951E04831DE7}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
