@@ -155,6 +155,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arithmetic Operators", "Ari
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Division", "Python Division\Python Division.pyproj", "{C6119218-4BB4-40AD-B6BC-599D939BB4BA}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Loops", "Loops\Loops.pyproj", "{8F635812-73EE-4984-AA3A-213963734150}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -909,6 +911,12 @@ Global
 		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|x64.ActiveCfg = Release|Any CPU
 		{C6119218-4BB4-40AD-B6BC-599D939BB4BA}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Release|x64.ActiveCfg = Release|Any CPU
+		{8F635812-73EE-4984-AA3A-213963734150}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
