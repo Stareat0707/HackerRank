@@ -171,6 +171,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Alphabet Rangoli", "Alphabe
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "List Comprehensions", "List Comprehensions\List Comprehensions.pyproj", "{98D6483D-6239-4F6E-82E8-FE3BCEF53AD1}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Find the Runner-Up Score!", "Find the Runner-Up Score!\Find the Runner-Up Score!.pyproj", "{E776D33E-7C42-4840-A234-FEA72606B1F5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nested Lists", "Nested Lists\Nested Lists.pyproj", "{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -973,6 +977,18 @@ Global
 		{98D6483D-6239-4F6E-82E8-FE3BCEF53AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D6483D-6239-4F6E-82E8-FE3BCEF53AD1}.Release|x64.ActiveCfg = Release|Any CPU
 		{98D6483D-6239-4F6E-82E8-FE3BCEF53AD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Release|x64.ActiveCfg = Release|Any CPU
+		{E776D33E-7C42-4840-A234-FEA72606B1F5}.Release|x86.ActiveCfg = Release|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Release|x64.ActiveCfg = Release|Any CPU
+		{84C8E41C-07D9-487F-8A14-6384C0AD3DAA}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
